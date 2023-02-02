@@ -1,4 +1,4 @@
-# EBAC-junior-test
+# Zabotay
 
 This template should help get you started developing with Vue 3 in Vite.
 
